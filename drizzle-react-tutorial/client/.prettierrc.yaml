@@ -1,0 +1,8 @@
+tabWidth: 2
+useTabs: false
+fPormatOnSave: true
+insertSpaces: true
+trailingComma: "all" 
+singleQuote: true
+printWidth: 200
+semi: false
